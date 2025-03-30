@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
